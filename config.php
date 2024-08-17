@@ -11,9 +11,7 @@ if(!$conn)
     die("<script>alert('Connection Failed.')</script>");
 
 }
-else{
-    echo "<h1>Hello</h1>";
-}
+
 
 
 
