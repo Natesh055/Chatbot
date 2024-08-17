@@ -1,0 +1,38 @@
+.container-form {
+    text-align: center;
+
+}
+
+.container-form img {
+    height: 100px;
+    width: 100px;
+    display: inline-block;
+    margin-top: 15%;
+    opacity: 0.666;
+}
+
+
+
+.formclass
+{
+    margin-top: 20%;
+    text-align: center;
+    bottom: 20px;
+}
+.formclass input
+{
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    width: 50vb;
+}
+
+.formclass button
+{
+    padding: 10px;
+    border-radius: 5px;
+    color: black;
+    font-size: 16px;
+    background-image: linear-gradient(to right,cyan,blue);
+}
